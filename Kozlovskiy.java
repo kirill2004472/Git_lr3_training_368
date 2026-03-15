@@ -8,7 +8,7 @@ public class SimpleRobotApplication {
 
         SwingUtilities.invokeLater(new Runnable() {// second master commit
             public void run() {
-                GameFrame mainW = new GameFrame();
+                GameFrame mainW = new GameFrame();// third master commit
                 mainW.setVisible(true);
             }
         });
