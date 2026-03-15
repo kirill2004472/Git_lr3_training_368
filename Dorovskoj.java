@@ -2,19 +2,19 @@ public class SimpleCalculator {
 
     private double result;
 
-    public SimpleCalculator() {
+    public SimpleCalculator() { //1 комит
         result = 0;
     }
 
-    public void add(double value) {
+    public void add(double value) { //2 комит
         result = result + value;
     }
 
-    public void subtract(double value) {
+    public void subtract(double value) { 
         result = result - value;
     }
 
-    public void multiply(double value) {
+    public void multiply(double value) { //4 комит
         result = result * value;
     }
 
