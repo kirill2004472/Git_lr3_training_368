@@ -1,6 +1,6 @@
 import View.GameFrame;
 
-import javax.swing.*;
+import javax.swing.*;// ау
 
 public class SimpleRobotApplication {
 
